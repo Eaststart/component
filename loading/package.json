@@ -1,0 +1,19 @@
+{
+  "name": "loading",
+  "version": "1.0.0",
+  "description": "loading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loading",
+    "&",
+    "nei"
+  ],
+  "author": "nei",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.16.5"
+  }
+}
